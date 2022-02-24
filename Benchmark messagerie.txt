@@ -1,0 +1,80 @@
+Benchmark Messageries instantanées
+
+Toutes les plateformes étudiées ci-dessous permettent l'échange instantanée de messages textuels et de fichiers
+entre plusieurs personnes par l'intermédiaire d'ordinateurs, tablettes, et smartphones reliés à internet.
+
+Plateformes :
+
+- Teams/365
+- Discord
+- Slack
+- Workplace (Meta)
+- Google workspace
+- Whatsapp
+
+*TEAMS/365 :
+
+Les points forts :
+
+Team/365 est intégré à Office 365 et n'induit pas de frais supplémentaires.
+
++ Ilpermet d'accéder à OneDrive automatiquement depuis l'environnement Teams sans identification supplémentaire.
+
++ tous les outils, contenus et collaborateurs sont disponibles dans l'éco-système.
+
++ Microsoft Teams existe en version desktop et mobile.
+
++ Teams donne également accès à toute la suite Microsoft (Skype, Powerpoint, Word,...)
+
++ Teams propose de larges possibilités de personnalisation l'environnement de travail.
+ 
+Les points faible :
+
+- Teams est entièrement contrôlé par Microsoft et non par l'organisation de travail. il ne propose pas de protection data-at-rest.
+
+Microsoft développe beaucoup de plateformes de messageries instantanées. (Pas forcément un inconvénient)
+
+
+*DISCORD :
+
+Les points forts :
+
+Discord prend en charge :
++ les appels vocaux pour 2 à 5.000 utilisateurs (en fonction du plan)
+
++ les appels vidéos avec un maximum de 25 personnes
+
++ Les fonction Push-To-Talk (PTT)
+
++ l'intégration de bots améliorant les appels vocaux et vidéos
+
+Les points faibles :
+
+- Discord n'est pas la plateforme la plus adaptée au partage de fichiers ou à la communication professionnelle.
+
+- Le partage de fichiers est limité à 8Mo sur Discord Free et à 100Mo sur Discord Nitro et Discord Classic.
+
+- Les bots de Discord sont plus orientés jeux ce qui empêche son intégration aux systèmes de travail existants par le biais de bots. 
+
+*SLACK :
+
+Les points forts :
+
++ Interface intuitive, confortable et efficace
+
++ Très facile à prendre en main pour les utilisateurs non-techniques
+
++ Possibilité d'intégrer tout un éco-système d'application tierce (Github, StackOverflow, Google analytics, MailChimp,...)
+
+Les points faibles :
+
+- Chaque utilisateur peut créer des canaux > désordre (beaucoup d'utilisateurs trouvent l'application chronophage voir néfaste à leur productivité pour cette raison)
+
+- L'absence de fonctionnalité de blocage ou de mise en sourdine (problématique dans un cas de harcèlement)
+
+*Workplace (Meta) : 
+
+
+
+
+
